@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.fmsoftware</groupId>
+    <groupId>top.zengphoenix</groupId>
     <artifactId>AnimatedGifEncoder</artifactId>
     <version>1.03</version>
     <packaging>jar</packaging>
@@ -10,11 +10,7 @@
         A re-package of the Animated GIF processing classes made
         available by Kevin Weiner at http://www.fmsware.com/stuff/gif.html
     </description>
-    <url>https://github.com/kangqichn/gif4j</url>
-    <issueManagement>
-        <url>https://github.com/kangqichn/gif4j/issues</url>
-        <system>GitHub Issues</system>
-    </issueManagement>
+    <url>https://github.com/PhoenixZeng/gif4j</url>
     <licenses>
         <license>
             <name>Apache V2</name>
